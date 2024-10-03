@@ -1,10 +1,13 @@
 <h2 align="left">Oii! Aqui é a Geovanna Cunha ✩₊˚.⋆☾⋆⁺₊✧</h2>
 
 ###
-
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Geecunha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Geecunha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
+  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/Geecunha)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Geecunha&show_icons=true&theme=blueberry&count_private=true&locale=en" />
+  </a>
+  <a href="[Git](https://github.com/Geecunha)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geecunha&hide_progress=true&theme=blueberry&langs_count=8&locale=en" />
+  </a>
 </div>
 
 ###
