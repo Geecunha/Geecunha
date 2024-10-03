@@ -1,6 +1,10 @@
-<h2 align="left">Oii! Aqui é a Geovanna Cunha ✩₊˚.⋆☾⋆⁺₊✧</h2>
+ ### <h2 align="left">Oii! Aqui é a Geovanna Cunha ✩₊˚.⋆☾⋆⁺₊✧</h2>
+ 
+- 🌟 Desenvolvedora Web | Apaixonada por criar soluções elegantes com código.
+- 🖥️ Habilidades: Front-End & Back-End: HTML, CSS, JavaScript, React, Node.js, Java
+- 🚀 Atualmente: Desafiando-me no "100 Days of Code" para aprimorar minhas habilidades em desenvolvimento web.
+- 🎯 Sempre em busca de novas oportunidades e projetos desafiadores!
 
-###
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/Geecunha)">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Geecunha&show_icons=true&theme=blueberry&count_private=true&locale=en" />
@@ -9,12 +13,12 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geecunha&hide_progress=true&theme=blueberry&langs_count=8&locale=en" />
   </a>
 </div>
-
-###
+</h2>
+ <hr>
 
 <img align="right" height="150" src="https://gifitup.net/wp-content/uploads/wpforms/3688-763eeec5411056fa4c2f1a4c7328a0cc/Design-sem-nome-5-acede53a1c35adb5552b8bc8c9066ea8.gif"  />
 
-###
+### Habilidades:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -34,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-###
+### Contatos:
 
 <div align="left">
   <a href="https://www.youtube.com/@GeeCunha" target="_blank">
