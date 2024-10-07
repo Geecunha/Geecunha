@@ -16,7 +16,7 @@
 </h2>
  <hr>
 
-<img align="right" height="150" src="https://gifitup.net/wp-content/uploads/wpforms/3688-763eeec5411056fa4c2f1a4c7328a0cc/Design-sem-nome-5-acede53a1c35adb5552b8bc8c9066ea8.gif"  />
+
 
 ### Habilidades:
 
