@@ -1,4 +1,4 @@
- ### <h2 align="left">Oii! Aqui é a Geovanna Cunha ✩₊˚.⋆☾⋆⁺₊✧</h2>
+ ### <h2 align="left">Oii! Aqui é a Geovanna Cunha ✩₊˚.⋆☾⋆⁺₊✧ </h2>
  
 - 🌟 Desenvolvedora Web | Apaixonada por criar soluções elegantes com código.
 - 🖥️ Habilidades: Front-End & Back-End: HTML, CSS, JavaScript, React, Node.js, Java
