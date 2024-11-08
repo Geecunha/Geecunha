@@ -1,6 +1,6 @@
  ### <h2 align="left">Oii! Aqui é a Geovanna Cunha ✩₊˚.⋆☾⋆⁺₊✧ </h2>
  
-- 🌟 Desenvolvedora Web | Apaixonada por criar soluções elegantes com código.
+- 🌟 Desenvolvedora Web | Apaixonada por criar soluções com código.
 - 🖥️ Habilidades: Front-End & Back-End: HTML, CSS, JavaScript, React, Node.js, Java
 - 🚀 Atualmente: Desafiando-me no "100 Days of Code" para aprimorar minhas habilidades em desenvolvimento web.
 - 🎯 Sempre em busca de novas oportunidades e projetos desafiadores!
